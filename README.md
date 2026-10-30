@@ -2,6 +2,8 @@
 
 Skill completa de edición: cortes desde archivos crudos, paleta y tipografías de marca, textos e iconos animados, motion blur, referencias y diseño sonoro.
 
+Versión vigente: **2026-10-30-r2**. La selección de crudos compara escenas, frases y oraciones repetidas entre todos los clips, retira errores de grabación y elige las tomas que mejor encajan en el conjunto por contenido, interpretación y continuidad. No da por buena automáticamente la última toma.
+
 ## Instalar desde este enlace
 
 **Puedes compartir esta página con el asistente del otro equipo** y pedirle:
@@ -10,7 +12,7 @@ Skill completa de edición: cortes desde archivos crudos, paleta y tipografías 
 
 **[Leer instrucciones completas de instalación](INSTALAR.md)**
 
-**[Descargar la skill completa en ZIP](https://github.com/MakaGonzalez/edicion-territorio-america/releases/download/2026-10-30/edicion-territorio-america.zip)**
+**[Descargar la skill completa en ZIP](https://github.com/MakaGonzalez/edicion-territorio-america/releases/latest/download/edicion-territorio-america.zip)**
 
 La descarga es pública y no exige una cuenta de GitHub. El asistente necesita poder descargar archivos, escribir en el equipo de destino y trabajar con skills. Abrir el enlace por sí solo no instala nada. Si el chat solo puede leer archivos, descarga y adjunta el ZIP para consultarlo; eso no acredita una instalación local.
 

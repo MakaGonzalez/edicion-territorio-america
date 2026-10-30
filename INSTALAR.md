@@ -1,18 +1,18 @@
 # Territorio América — paquete para otro equipo
 
-Versión: 2026-10-30. Incluye las correcciones hasta «es mi alumno» y el flujo de selección y cortes desde material crudo.
+Versión: 2026-10-30-r2. Incluye las correcciones hasta «es mi alumno» y el flujo de selección y cortes desde material crudo, con comparación de escenas/frases repetidas entre todos los clips y elección por contenido, interpretación y continuidad.
 
 El ZIP contiene la carpeta completa `edicion-territorio-america/`: instrucciones, paleta, fuentes Archivo/Fraunces, PDF de marca y diseño sonoro, referencias de Liquid Glass, capturas, presets y helpers de animación. No necesita las rutas de la Mac de Maka ni su disco externo. Los videos originales, los renders y la biblioteca musical pertenecen a cada proyecto y no forman parte de esta skill; sus muestras/análisis sí están incluidos.
 
 ## Para pasárselo a otro asistente
 
-Puedes pasar al asistente la página pública https://github.com/MakaGonzalez/edicion-territorio-america y pedirle que siga esta guía. El ZIP completo está en https://github.com/MakaGonzalez/edicion-territorio-america/releases/download/2026-10-30/edicion-territorio-america.zip . Si su entorno no permite descargar enlaces, descarga el ZIP y adjúntalo al chat. Puedes pedirle:
+Puedes pasar al asistente la página pública https://github.com/MakaGonzalez/edicion-territorio-america y pedirle que siga esta guía. El ZIP completo está en https://github.com/MakaGonzalez/edicion-territorio-america/releases/latest/download/edicion-territorio-america.zip . Si su entorno no permite descargar enlaces, descarga el ZIP y adjúntalo al chat. Puedes pedirle:
 
 > Descarga e instala la skill edicion-territorio-america del enlace de esta guía en este equipo. Lee primero INSTALAR.md y verifica MANIFEST.sha256.json. Conserva una copia de la versión anterior si existe. Usa la ruta de skills del entorno actual y confirma por lectura que SKILL.md, fuentes, referencias y presets se copiaron correctamente. No edites videos ni publiques nada durante la instalación.
 
 El asistente necesita acceso a los archivos del equipo y un entorno que admita skills. Si solo puede leer adjuntos, podrá usar las instrucciones como referencia, pero no debe afirmar que la instaló en el computador.
 
-La descarga pública está en https://github.com/MakaGonzalez/edicion-territorio-america/releases/tag/2026-10-30 y no requiere iniciar sesión. También puedes adjuntar el ZIP directamente al otro chat. El respaldo general de otras skills permanece privado.
+La descarga pública está en https://github.com/MakaGonzalez/edicion-territorio-america/releases/latest y no requiere iniciar sesión. También puedes adjuntar el ZIP directamente al otro chat. El respaldo general de otras skills permanece privado.
 
 ## Instalación con el instalador incluido
 
